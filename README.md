@@ -5,11 +5,11 @@ Pandas is an open source data analysis and manipulation framework designed on to
 ## Install and Run Instructions (Pyhton Version 3.9 64-bit)
 To install pandas(main library), in the visual studio terminal you use the command pip install pandas
 ```console
-$ python pip install pandas
+$ pip install pandas
 ```
 
 ## The Code
-This midtemproject.py file allows the user to create and genreate a dataframe from scratch.
+This midtemproject.py file allows the user to create and genreate a dataframe from scratch with the use of the pandas library.
 
 ### Key important areas
 - createcsvfile() is defined in line 9 and its used in line 77
@@ -22,4 +22,9 @@ This midtemproject.py file allows the user to create and genreate a dataframe fr
 - line 77: using the createcsvfile function that was defined in line 9 to create a file name with an extension of csv and generate the file
 
 ## Future Idea
-I don't have a particular mind 
+Using the pandas library and some other supportive libraries, I would like to work on something to do with datat science or a web application that focusses on current trends that 
+the world needs as an something to do with stock market or security.
+
+The pandas library would be helpful for organizaing the raw data from a source, analyzing it and make predicitions, ask questions, and visualizing and comming up with a story taht summarizes the whole purpose of our study. 
+
+#The midtermproject.py file is the one that needs to run
